@@ -1,4 +1,3 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=OpenRazer Service
 Comment=DBus daemon to abstract away from the driver and to provide more logic and integration with userspace stuffs.
